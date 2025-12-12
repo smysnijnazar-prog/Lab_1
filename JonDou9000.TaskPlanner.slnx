@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="JonDou9000.TaskPlanner.Domain.Logic1/JonDou9000.TaskPlanner.Domain.Logic1.csproj" />
+  <Project Path="JonDou9000.TaskPlanner.Domain.Models1/JonDou9000.TaskPlanner.Domain.Models1.csproj" />
+  <Project Path="JonDou9000.TaskPlanner/JonDou9000.TaskPlanner.ConsoleApp.csproj" />
+</Solution>
